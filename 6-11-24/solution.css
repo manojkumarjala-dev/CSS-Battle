@@ -1,0 +1,74 @@
+<div class='rect1'></div>
+<div class='rect2'></div>
+<div class='rect3'></div>
+<div class='rect4'></div>
+<div class='line1'></div>
+<div class='line2'></div>
+<div class='line3'></div>
+<div class='line4'></div>
+<style>
+  .line1{
+    position:absolute;
+    margin-left:227px;
+    margin-top:27px;
+    width: 10px;
+    height: 50px;
+    background:#F48B26;
+  }
+  .line2{
+    position:absolute;
+    margin-left:237px;
+    margin-top:87px;
+    width: 10px;
+    height: 50px;
+    background:#F48B26;
+  }
+  .line4{
+    position:absolute;
+    margin-left:257px;
+    margin-top:207px;
+    width: 10px;
+    height: 50px;
+    background:#F48B26;
+  }
+  .line3{
+    position:absolute;
+    margin-left:247px;
+    margin-top:147px;
+    width: 10px;
+    height: 50px;
+    background:#F48B26;
+  }
+  .rect1{
+    margin-left:27px;margin-top:27px;
+    position:absolute;
+    width: 330px;
+    height: 50px;
+    background:#FEFF58;
+  }
+  .rect2{
+    margin-left:37px;margin-top:87px;
+    position:absolute;
+    width: 310px;
+    height: 50px;
+    background:#FEFF58;
+  }
+  .rect3{
+    margin-left:47px;margin-top:147px;
+    position:absolute;
+    width: 290px;
+    height: 50px;
+    background:#FEFF58;
+  }
+  .rect4{
+    margin-left:57px;margin-top:207px;
+    position:absolute;
+    width: 270px;
+    height: 50px;
+    background:#FEFF58;
+  }
+
+  body{
+    background:#F48B26;
+  }
+</style>
