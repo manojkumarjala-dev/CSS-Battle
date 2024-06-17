@@ -1,0 +1,74 @@
+<div class='rec1'></div>
+<div class='l1'></div>
+<div class='l2'></div>
+<div class='rec2'></div>
+<div class='rec3'></div>
+<div class='c1'></div>
+<div class='c2'></div>
+<style>
+  body{
+    background:#EFF8FE;
+  }
+  .l1{
+    position:absolute;
+    margin-left:47;
+    margin-top:52;
+    position:absolute;
+    width: 10px;
+    height: 180px;
+    background:#EFF8FE;
+  }
+   .c1{
+    position:absolute;
+    margin-left:67;
+    margin-top:147;
+    border-radius: 50%;
+    position:absolute;
+    width: 75px;
+    height: 75px;
+    background:#EFF8FE;
+  }
+  .c2{
+    position:absolute;
+    margin-left:242;
+    margin-top:62;
+    border-radius: 50%;
+    position:absolute;
+    width: 75px;
+    height: 75px;
+    background:#EFF8FE;
+  }
+  .l2{
+        position:absolute;
+    margin-left:327;
+    margin-top:52;
+    position:absolute;
+    width: 10px;
+    height: 180px;
+    background:#EFF8FE;
+  }
+  .rec1 {
+    position:absolute;
+    margin-top:52;
+    margin-left:26;
+    width: 330px;
+    height: 180px;
+    background: #4F77FF;
+  }
+  .rec2 {
+    position:absolute;
+    margin-top:62;
+    margin-left:66;
+    width: 167px;
+    height: 75px;
+    background:#EFF8FE;
+  }
+  .rec3 {
+    position:absolute;
+    margin-top:147;
+    margin-left:152;
+    width: 165px;
+    height: 75px;
+    background:#EFF8FE;
+  }
+</style>
